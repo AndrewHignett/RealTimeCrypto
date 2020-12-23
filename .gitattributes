@@ -62,4 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-linking/* linguist-vendored
+cryptoRT/linking/* linguist-vendored
